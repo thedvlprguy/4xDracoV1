@@ -32,8 +32,8 @@ sudo apt install whois nmap
 ## 📥 Installation
 1. 📂 Clone the repository:
 ```sh
-git clone https://github.com/yourusername/osint-automation.git
-cd osint-automation
+git clone https://github.com/thedvlprguy/4xDracoV1.git
+cd 4xDracoV1
 ```
 2. 🔑 Ensure the script has execution permissions:
 ```sh
